@@ -30,7 +30,9 @@ The major objective of this project is to build a machine learning model useful 
 United Kingdom which will aid decision making on optimal planting periods and planning farm 
 operations.
 
- Conclusion 
+ **Conclusion **
+
+ 
 Using machine learning models, the soil temperature for Lancashire County in the United Kingdom 
 was predicted using data collected for the month of May, 2018. Results indicated that Random 
 Forest was the best performing model, followed by ARIMA model, linear regression model and 
