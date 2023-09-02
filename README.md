@@ -1,4 +1,5 @@
 **INTRODUCTION**
+
 This project used R to explore machine learning models using Weather Forecasting Dataset. The dataset for this project is from the Weather Research and Forecasting Model for May 2018 
 from areas in the United Kingdom. 
 
